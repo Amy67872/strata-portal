@@ -58,7 +58,7 @@ export default function Home() {
           />
           <h2 className="text-2xl font-semibold mb-2">Committee Documents</h2>
           <p>
-            Access minutes from meetings, upcoming agendas, and voting decisions. Keep all owners informed and aligned
+            Access meetings, upcoming agendas, and voting decisions. Keep all owners informed and aligned
             with our responsibilities.
           </p>
         </div>
@@ -71,7 +71,7 @@ export default function Home() {
           />
           <h2 className="text-2xl font-semibold mb-2">Owner Notices</h2>
           <p>
-            Share announcements, updates, and by-law changes with all lot owners. Transparency helps maintain a strong,
+            Share announcements, updates, and by-law changes with all owners. Transparency helps maintain a strong,
             cooperative community.
           </p>
         </div>
