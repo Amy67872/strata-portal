@@ -1,3 +1,5 @@
+// force update
+
 export default function Home() {
     return (
       <main className="min-h-screen bg-gray-50 text-gray-800 px-6 py-10 font-sans">
