@@ -5,7 +5,7 @@ export default function Home() {
       <main className="min-h-screen bg-gray-50 text-gray-800 px-6 py-10 font-sans">
         <header className="text-center mb-10">
           <img
-            src="/assets/building.jpg"
+            src="public/assets/building.jpg"
             alt="Our Building"
             className="rounded-xl mx-auto w-full max-w-4xl shadow-md mb-6"
           />
@@ -26,7 +26,7 @@ export default function Home() {
         <section className="grid grid-cols-1 md:grid-cols-2 gap-10 max-w-5xl mx-auto">
           <div className="bg-white p-6 rounded-xl shadow-md">
             <img
-              src="/assets/levies.jpg"
+              src="public/assets/levies.jpg"
               alt="Levies"
               className="rounded-lg w-full mb-4"
             />
@@ -39,7 +39,7 @@ export default function Home() {
   
           <div className="bg-white p-6 rounded-xl shadow-md">
             <img
-              src="/assets/maintenance.jpg"
+              src="public/assets/maintenance.jpg"
               alt="Maintenance"
               className="rounded-lg w-full mb-4"
             />
@@ -52,7 +52,7 @@ export default function Home() {
   
           <div className="bg-white p-6 rounded-xl shadow-md">
             <img
-              src="/assets/committee.jpg"
+              src="public/assets/committee.jpg"
               alt="Committee"
               className="rounded-lg w-full mb-4"
             />
@@ -65,7 +65,7 @@ export default function Home() {
   
           <div className="bg-white p-6 rounded-xl shadow-md">
             <img
-              src="/assets/notices.jpg"
+              src="public/assets/notices.jpg"
               alt="Notices"
               className="rounded-lg w-full mb-4"
             />
