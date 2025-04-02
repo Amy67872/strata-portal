@@ -9,7 +9,7 @@ export default function Home() {
             alt="Our Building"
             className="rounded-xl mx-auto w-full max-w-4xl shadow-md mb-6"
           />
-          <h1 className="text-4xl font-bold mb-3">Welcome to the NEW Strata Portal</h1>
+          <h1 className="text-4xl font-bold mb-3">Welcome to Strata Management Portal</h1>
           <p className="text-lg max-w-2xl mx-auto">
             As a member of our building's Strata Committee, I manage day-to-day operations in line with the
             <a
