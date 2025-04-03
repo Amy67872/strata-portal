@@ -1,13 +1,5 @@
 {
     "version": 2,
-    "builds": [
-      {
-        "src": "package.json",
-        "use": "@vercel/next",
-        "config": {
-          "buildCommand": "npm install && npm run build"
-        }
-      }
-    ]
+    "regions": ["sydney1", "dev1"]
   }
   
